@@ -1,5 +1,3 @@
-# CS-499 ePortfolio
-
 ## Professional Self-Assessment  
 This will be edited later. Placeholder.
 
