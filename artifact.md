@@ -10,4 +10,5 @@ Throughout the development of the artifact, I have had to reconsider many of my 
 [ePortfolio Project](https://github.com/zwischenstock/ePortfolioProject)
 
 **Other Pages**  
-[Main Page](https://zwischenstock.github.io/)
+* [Professional Self-Assessment](https://zwischenstock.github.io/)
+* [Code Review](https://zwischenstock.github.io/code_review.html)
